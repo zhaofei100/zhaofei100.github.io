@@ -23,35 +23,36 @@ College of Veterinary Medicine, Sichuan Agricultural University, Yaan, China
 Supervisor: Dr. Xiaobo Huang, Ph.D.
 
 Research experience
-======
+=======
+
 Assistant Scientist  09/08/2021‒26/08/2022
-=
+------
 Laboratory of Dr. Scott Tibbetts, Ph.D. Department of Molecular Genetics & Microbiology, College of Medicine, University of Florida, Gainesville, Florida, USA
 •	Defining the in vivo function of EWSR1 during gammaherpesvirus-driven and antigen-mediated germinal center B cell responses.
 •	Determining the in vivo function of EBV EBER2 polymorphisms differentially associated with B cell lymphoma during chronic infection.
 
 Postdoctoral Associate  06/01/2017‒09/07/2021 
-=
+------
 Laboratory of Dr. Scott Tibbetts, Ph.D. Department of Molecular Genetics & Microbiology, College of Medicine, University of Florida, Gainesville, Florida, USA
 •	Defining the in vivo function of murine gammaherpesvirus 68 (MHV68) miRNAs and their targets during latency and pathogenesis
 •	Determining the conserved in vivo function of Epstein-Barr virus (EBV) encoded RNA 2 (EBER2) during latency and pathogenesis
 •	Identifying the function of MHV68-encoded circular RNA circM11_ORF69 during virus infection
 
 Postdoctoral Fellow  09/01/2016‒05/31/2017
-=
+------
 Laboratory of Dr. Ravit Arav-Boger, M.D. Department of Pediatrics, School of Medicine, Johns Hopkins University, Baltimore, Maryland, USA
 •	Screening and functionally validating antiviral compounds against human and mouse cytomegaloviruses (HCMV and MCMV)
 •	Investigating the interaction between HCMV IE1/2 and herpesvirus-associated ubiquitin-specific protease (HAUSP/USP7)
 
 Ph.D. Graduate Research  09/02/2013‒07/05/2016                                     
-=
+------
 Laboratory of Dr. Changming Liu, Ph.D. Division of Swine Infection Diseases, State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China
 •	Identifying the pathways by which the pseudorabies virus (PRV) DNA polymerase holoenzyme is transported into the nucleus 
 •	Determining the oligomerization status of the PRV DNA polymerase processivity factor UL42
 •	Investigating targeting the PRV UL42 or disrupting the PRV UL42/UL30 interaction as a potential antiviral strategy against PRV
 
 M.S. Graduate Research  09/01/2010‒07/04/2013
-=
+------
 Laboratory of Dr. Changming Liu, Ph.D. Division of Swine Infection Diseases, State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China
 •	Determining the immunoenhancement effect of porcine cytokines (IFN-γ, IL-2, and GM-CSF) on porcine circovirus 2 capsid protein-based subunit vaccine
 
