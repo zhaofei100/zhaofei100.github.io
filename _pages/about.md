@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Ph.D. in Preventive Veterinary Science                  09/02/2013‒07/05/2016
+The Graduate School of Chinese Academy of Agricultural Sciences, Beijing, China 
+Supervisor: Dr. Changming Liu, Ph.D.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Master in Preventive Veterinary Medicine                    09/01/2010‒07/04/2013
+The Graduate School of Chinese Academy of Agricultural Sciences, Beijing, China 
+Supervisor: Dr. Changming Liu, Ph.D.
+
+Bachelor in Veterinary Medicine                           09/01/2006‒06/25/2010 
+College of Veterinary Medicine, Sichuan Agricultural University, Yaan, China
+Supervisor: Dr. Xiaobo Huang, Ph.D.
+
+Research experience
+======
+Assistant Scientist  09/08/2021‒26/08/2022
+=
+Laboratory of Dr. Scott Tibbetts, Ph.D. Department of Molecular Genetics & Microbiology, College of Medicine, University of Florida, Gainesville, Florida, USA
+•	Defining the in vivo function of EWSR1 during gammaherpesvirus-driven and antigen-mediated germinal center B cell responses.
+•	Determining the in vivo function of EBV EBER2 polymorphisms differentially associated with B cell lymphoma during chronic infection.
+
+Postdoctoral Associate  06/01/2017‒09/07/2021 
+=
+Laboratory of Dr. Scott Tibbetts, Ph.D. Department of Molecular Genetics & Microbiology, College of Medicine, University of Florida, Gainesville, Florida, USA
+•	Defining the in vivo function of murine gammaherpesvirus 68 (MHV68) miRNAs and their targets during latency and pathogenesis
+•	Determining the conserved in vivo function of Epstein-Barr virus (EBV) encoded RNA 2 (EBER2) during latency and pathogenesis
+•	Identifying the function of MHV68-encoded circular RNA circM11_ORF69 during virus infection
+
+Postdoctoral Fellow  09/01/2016‒05/31/2017
+=
+Laboratory of Dr. Ravit Arav-Boger, M.D. Department of Pediatrics, School of Medicine, Johns Hopkins University, Baltimore, Maryland, USA
+•	Screening and functionally validating antiviral compounds against human and mouse cytomegaloviruses (HCMV and MCMV)
+•	Investigating the interaction between HCMV IE1/2 and herpesvirus-associated ubiquitin-specific protease (HAUSP/USP7)
+
+Ph.D. Graduate Research  09/02/2013‒07/05/2016                                     
+=
+Laboratory of Dr. Changming Liu, Ph.D. Division of Swine Infection Diseases, State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China
+•	Identifying the pathways by which the pseudorabies virus (PRV) DNA polymerase holoenzyme is transported into the nucleus 
+•	Determining the oligomerization status of the PRV DNA polymerase processivity factor UL42
+•	Investigating targeting the PRV UL42 or disrupting the PRV UL42/UL30 interaction as a potential antiviral strategy against PRV
+
+M.S. Graduate Research  09/01/2010‒07/04/2013
+=
+Laboratory of Dr. Changming Liu, Ph.D. Division of Swine Infection Diseases, State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China
+•	Determining the immunoenhancement effect of porcine cytokines (IFN-γ, IL-2, and GM-CSF) on porcine circovirus 2 capsid protein-based subunit vaccine
 
 Getting started
 ======
